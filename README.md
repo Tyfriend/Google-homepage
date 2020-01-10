@@ -1,0 +1,1 @@
+This project is going to be the first time that I try to recreate an already existing webpage. I will use HTML, CSS, and developer tools all together for the first time. 
